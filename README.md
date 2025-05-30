@@ -34,5 +34,7 @@ O sistema desenvolvido se mostrou promissor como ferramenta de apoio à educaç�
 - Antônio Carlos Domanski da Silva  
 - Bruna Almeida da Silva  
 - Laura Eloise Ferreira
+
+  ## Se você se interessou, vem assistir ao vídeo no Youtube!!!
   
 [![Assista no YouTube](https://img.youtube.com/vi/qQOKvmNHEU8/0.jpg)](https://youtu.be/qQOKvmNHEU8)
